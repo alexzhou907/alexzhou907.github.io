@@ -26,7 +26,7 @@ redirect_from:
     <tr>
         <td><center><a href="https://arxiv.org/abs/2104.03670" class="nav-link"><img class="filter-blue" src="{{ "/images/paper_icon.svg" | prepend: data_path }}" width="48" height="48"/><br>Paper</a></center>
         </td>
-        <td><center><a href="" class="nav-link"><img class="filter-blue" src="{{ "/images/github.svg" | prepend: data_path }}" width="48" height="48"/><br>Code<br> (Coming Soon)</a></center>
+        <td><center><a href="https://github.com/alexzhou907/PVD" class="nav-link"><img class="filter-blue" src="{{ "/images/github.svg" | prepend: data_path }}" width="48" height="48"/><br>Code<br></a></center>
         </td>
     </tr>
 </table>
@@ -119,13 +119,13 @@ and their completion show variability. Within each example, (top) 3 completion f
 </p>
 <h2 class="title">Citation</h2>
 <pre>
-@article{zhou20213d,
-      title={3D Shape Generation and Completion through Point-Voxel Diffusion}, 
-      author={Zhou, Linqi and Du, Yilun and Wu, Jiajun},
-      year={2021},
-      eprint={2104.03670},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{Zhou_2021_ICCV,
+    author    = {Zhou, Linqi and Du, Yilun and Wu, Jiajun},
+    title     = {3D Shape Generation and Completion Through Point-Voxel Diffusion},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {5826-5835}
 }
 </pre>
 
