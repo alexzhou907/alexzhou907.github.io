@@ -20,6 +20,10 @@ redirect_from:
   <sup>2</sup> MIT;
 </h3></center>
 
+<center><h3>
+  ICCV 2021
+</h3></center>
+
 <!-- paper icons -->
 <center>
 <table style="margin-top: 20px">
