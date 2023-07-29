@@ -11,9 +11,14 @@ title                    : "Linqi (Alex) Zhou"
 title_separator          :
 name                     : "Linqi (Alex) Zhou"
 description              :
-url                      : https://alexzhou907.github.io  # local use:  http://127.0.0.1:4000
+url                      : https://alexzhou907.github.io 
+ # local use: 
+# url                      : http://127.0.0.1:4000
 baseurl                  : #linqizhou #the subpath of your site, e.g. "/blog"
-dataurl                  : https://alexzhou907.github.io  #https://media.githubusercontent.com/media/alexzhou907/alexzhou907.github.io/main  # local use:  http://127.0.0.1:4000 and turn off exclude images/
+ # local use: 
+dataurl                  : https://alexzhou907.github.io  #https://media.githubusercontent.com/media/alexzhou907/alexzhou907.github.io/main  
+# local use:  and turn off exclude images/
+# dataurl                  : http://127.0.0.1:4000
 repository               :
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -147,7 +152,7 @@ exclude:
   - package.json
   - tmp
   - vendor
-#  - images
+  # - images
 keep_files:
   - .git
   - .svn
