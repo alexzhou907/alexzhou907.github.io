@@ -141,7 +141,6 @@ exclude:
   - assets/js/plugins
   - assets/js/vendor
   - config
-  - "_publications/*.md"
   - gulpfile.js
   - log
   - node_modules
