@@ -5,6 +5,6 @@ date: 2023-12-05
 author: <b>Linqi Zhou</b>, Andy Shih, Chenlin Meng, Stefano Ermon
 venue: arXiv 2023
 paperurl: https://arxiv.org/abs/2311.17082
-pageurl: /dreampropeller
+pageurl: /dreampropeller_page
 codeurl: https://github.com/alexzhou907/DreamPropeller
 ---
