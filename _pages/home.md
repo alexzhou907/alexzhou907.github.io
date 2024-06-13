@@ -17,7 +17,7 @@ Mathematics at University of California, Los Angeles and was advised by [Prof. S
 My goal is to create human-centered embodied agents that can understand the world like humans do. Towards this end, I mainly research in computer vision and machine learning, and build models that understand the world in a structured and probablistic manner. I am
 broadly interested in generative modeling and representation learning, both in unimodal and multimodal settings.
 
-Besides my research, I play the piano and paint, and I love music and visual arts in general. 
+I am a co-founder at [Apparate Labs](https://apparate.ai/index.html), focusing on [real-time visual embodiment via generative humans](https://apparate.ai/blog/proteus.html).
 
 
 <br>
